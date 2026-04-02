@@ -1,0 +1,27 @@
+# IDE
+.idea
+.vscode
+
+# Environment
+.env
+
+# Build output
+build/
+dist/
+*.exe
+*.test
+*.out
+
+# Dependencies
+vendor/
+
+# Go workspace file
+go.work
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
